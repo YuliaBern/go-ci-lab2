@@ -1,4 +1,4 @@
-![CI](https://github.com/YuliaBern/go-tooling-labs/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/YuliaBern/go-ci-lab2/actions/workflows/ci.yml/badge.svg)
 # Lab1 Tooling
 
 ## Run project
